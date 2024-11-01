@@ -1,6 +1,15 @@
 # Compiled class file
 *.class
 
+../.idea
+
+/*/target
+/*/misc.xml
+/*/modules.xml
+/*/workspace.xml
+/*/*.iml
+/*/vcs.xml
+
 # Log file
 *.log
 
